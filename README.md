@@ -1,6 +1,6 @@
-# KiWi
+This is not our project!!! credits belong to the authors at the bottom of this file!!!
 
-This is not our project! credits are below!!!
+# KiWi
 
 A Key-Value Map for Scalable Real-Time Analytics
 
